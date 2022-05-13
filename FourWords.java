@@ -1,4 +1,4 @@
-package question1_1;
+package question1_2;
 //Wirakarn Ponpraserd
 //6409650311
 
@@ -181,3 +181,4 @@ public class FourWords {
 		}
 	}
 }
+
